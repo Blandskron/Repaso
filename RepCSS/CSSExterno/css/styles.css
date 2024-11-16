@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+header h1 {
+    color: blue;
+}
+hr {
+    border: 1px solid gray;
+}
+h2 {
+    color: green;
+}
+ul {
+    padding-left: 20px;
+}
